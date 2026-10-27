@@ -9,7 +9,7 @@
 | 4. | STEALING | The model is rebuilt through repeated queries. |
 | 5. | INJECTION | Attacks on the input, and on how downstream systems handle the output. |
 
-| AFTER:- |
+| REFERENCE MINDMAP:- |
 | --------- |
 | <img src="/Images-Security/3-Standard-Attacks.png"> |
 

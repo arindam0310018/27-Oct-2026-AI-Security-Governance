@@ -1,13 +1,15 @@
-# AI Security #1:  Microsoft allows standard users to create Agent Identity Blueprints by default (MC1506733):-
+# AI SECURITY #1:  Microsoft allows standard users to create Agent Identity Blueprints by default (MC1506733):-
 
-| Problem Statement:- |
+| PROBLEM STATEMENT:- |
 | --------- |
 | __Users without assigned Entra ID roles can create blueprints and agent identities.__ |
 
-| Recommendation:- |
+
+| RECOMMENDATION:- |
 | --------- |
 | Disable by default. |
 | This introduces risks around __Identity Ownership__ and __Permissions__ as users are allowed to create Non-Human Identities. |
+
 
 | BEFORE:- |
 | --------- |
